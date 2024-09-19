@@ -1,0 +1,2 @@
+# Introduction
+In this project I have created two java production codes(ScenarioA.java and ScenarioB) to perform the scenarios as per the assignment specification. After creating all the necessary modules for the production codes, test cases were created and implemented to test the modularity of some of the modules in the production codes. Version control was used to keep track of the progress.
